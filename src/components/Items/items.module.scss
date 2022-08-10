@@ -1,0 +1,18 @@
+.complateBtn {
+    background-color: #6ef023; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.finish {
+    text-decoration: line-through;
+    font-style: italic;
+    color: red;
+}

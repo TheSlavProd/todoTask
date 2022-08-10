@@ -1,0 +1,73 @@
+.content {
+    // background-color: rgb(131, 228, 228);
+    width: auto;
+
+    &__title {
+        font-size: 35px;
+        text-shadow: 4px -1px 2px #08ce5c;
+    }
+}
+
+.input {
+    font-family: inherit;
+    font-size: 15px;
+    line-height: inherit;
+    height: 20px;
+    padding: 10px;
+    min-width: 12em;
+    border-radius: 20px;
+    border-color: aqua;
+}
+
+.btn {
+    background-color: #4caf50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.btnBack {
+    margin-top: 20px;
+    background-color: #7c7219; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.showBtn {
+    margin-top: 20px;
+    background-color: #7c7219; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.btnDeleteAll {
+    margin-top: 20px;
+    background-color: #0d667c; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
